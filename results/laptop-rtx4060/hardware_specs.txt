@@ -1,0 +1,11 @@
+CPU: Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+CPU cores (physical): 10
+CPU threads (logical): 16
+RAM (GB): 34.0
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+Operating System: Windows-11-10.0.26200-SP0
+Python version: 3.13.5
+Framework: PyTorch 2.11.0+cu128 (torchvision 0.26.0+cu128), CUDA 12.8
+Dataset size: 10000
+Batch size: 64
+Epochs: 3

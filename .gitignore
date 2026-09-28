@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+.venv-1/
+
+# Dataset (too large for GitHub, download from Kaggle instead)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor settings
+.vscode/

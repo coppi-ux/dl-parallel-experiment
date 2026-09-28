@@ -1,0 +1,9 @@
+Method,Workers,Time/Epoch (s),Total Time (s),Data Loading Time (s),Throughput (img/s),CPU Usage (%),RAM Peak (MB),GPU Usage (%),Speedup
+Sequential,0,66.78,200.34,187.89,150.23,71.47,1314.28,18.21,1.0
+Multithreading,2,71.25,213.76,191.71,141.04,98.86,1344.66,20.75,0.94
+Multithreading,4,68.84,206.51,183.45,145.51,96.52,1357.44,18.97,0.97
+Multithreading,8,66.47,199.4,176.51,150.46,99.96,1397.23,21.58,1.0
+Multiprocessing,1,62.21,186.63,167.23,160.75,17.16,2083.2,20.95,1.07
+Multiprocessing,2,35.13,105.38,78.11,284.71,20.01,2748.84,20.06,1.9
+Multiprocessing,4,27.12,81.37,35.97,368.69,25.95,4082.64,22.13,2.46
+Multiprocessing,8,31.96,95.87,13.38,312.95,28.93,6769.4,18.54,2.09
